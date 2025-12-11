@@ -24,3 +24,7 @@ This project focuses on performance, clean UI, and real-world website structure 
 
 ### Landing Page Screenshot 3
 ![Screenshot 3](https://github.com/faizank3199/my-project/blob/main/Landing%20Page%20ss/landing_page_ss3.png?raw=true)
+
+
+## Click here to veiw live project:
+[Live Demo](https://faizank3199.github.io/my-project)
