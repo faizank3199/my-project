@@ -13,3 +13,6 @@ This project focuses on performance, clean UI, and real-world website structure 
 * CSS3
 * Javascript
 * Bootstrap
+
+## Screenshot
+![landing Page Screenshot](Landing Page ss/landing_page_ss.png)
